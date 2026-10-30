@@ -1,0 +1,11 @@
+   body {
+   }
+
+.sel, select	{ font: 12px verdana }
+
+body {background-color: white; color: #000000 ; font-family: Tahoma, Arial-ce,Arial, Lucida Sans}
+A:link {}
+A:visited {}
+
+p.vv {font-variant: small-caps }
+

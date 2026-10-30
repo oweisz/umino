@@ -1,0 +1,19 @@
+   body {
+     scrollbar-face-color      : #FFFFFF;
+     scrollbar-shadow-color    : #FFFFFF;
+     scrollbar-highlight-color : #FFFFFF;
+     scrollbar-3dlight-color   : #595998;
+     scrollbar-darkshadow-color: #FFFFFF;
+     scrollbar-track-color     : #595998;
+     scrollbar-arrow-color     : #000000;
+   }
+
+.sel, select	{ background-color: #B4B4B4; font: 12px verdana }
+
+body {background-color: white; color: #595998 ; font-family: Tahoma, Arial, Lucida Sans}
+A:link {color: #392968}
+A:visited {color: black}
+
+p.vv {font-variant: small-caps }
+
+hr {color:  #595998}
