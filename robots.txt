@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uminogurio.netlify.app/sitemap.xml
+
