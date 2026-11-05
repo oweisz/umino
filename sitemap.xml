@@ -1,1100 +1,825 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org">
   <url>
     <loc>https://uminogurio.netlify.app/cutie/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/cutie/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/cutie/index1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/cutie/index1.html/" />
+    <loc>https://uminogurio.netlify.app/cutie/index1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/cutie/ram1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/cutie/ram1.html/" />
+    <loc>https://uminogurio.netlify.app/cutie/ram1.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/figure17/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/figure17/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/figure17/index1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/figure17/index1.html/" />
+    <loc>https://uminogurio.netlify.app/figure17/index1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/figure17/ram1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/figure17/ram1.html/" />
+    <loc>https://uminogurio.netlify.app/figure17/ram1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/figure17/ram2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/figure17/ram2.html/" />
+    <loc>https://uminogurio.netlify.app/figure17/ram2.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/figure17/titulky.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/figure17/titulky.html/" />
+    <loc>https://uminogurio.netlify.app/figure17/titulky.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/film/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/film/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/google5343079f12428526.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/google5343079f12428526.html/" />
+    <loc>https://uminogurio.netlify.app/google5343079f12428526.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/hakkenden/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/hakkenden/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/hakkenden/index1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/hakkenden/index1.html/" />
+    <loc>https://uminogurio.netlify.app/hakkenden/index1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/hakkenden/ram1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/hakkenden/ram1.html/" />
+    <loc>https://uminogurio.netlify.app/hakkenden/ram1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/hakkenden/ram2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/hakkenden/ram2.html/" />
+    <loc>https://uminogurio.netlify.app/hakkenden/ram2.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/hakkenden/titulky.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/hakkenden/titulky.html/" />
+    <loc>https://uminogurio.netlify.app/hakkenden/titulky.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/img/odkazy.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/img/odkazy.html/" />
+    <loc>https://uminogurio.netlify.app/img/odkazy.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/" />
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/maison/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/maison/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/maison/index1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/maison/index1.html/" />
+    <loc>https://uminogurio.netlify.app/maison/index1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/maison/ram1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/maison/ram1.html/" />
+    <loc>https://uminogurio.netlify.app/maison/ram1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/maison/titulky.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/maison/titulky.html/" />
+    <loc>https://uminogurio.netlify.app/maison/titulky.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/1.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/2.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/2.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/sailormoon/epquide/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-sm.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/l-sm.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-sm.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-smr.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/l-smr.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-smr.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-sms.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/l-sms.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-sms.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-smss.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/l-smss.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-smss.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-ss.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/l-ss.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/l-ss.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm001.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm001.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm001.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm002.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm002.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm002.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm003.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm003.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm003.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm004.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm004.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm004.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm005.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm005.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm005.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm006.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm006.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm006.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm007.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm007.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm007.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm008.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm008.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm008.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm009.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm009.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm009.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm010.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm010.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm010.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm011.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm011.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm011.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm012.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm012.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm012.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm013.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm013.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm013.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm014.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm014.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm014.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm015.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm015.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm015.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm016.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm016.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm016.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm017.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm017.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm017.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm018.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm018.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm018.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm019.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm019.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm019.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm020.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm020.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm020.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm021.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm021.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm021.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm022.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm022.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm022.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm023.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm023.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm023.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm024.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm024.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm024.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm025.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm025.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm025.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm026.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm026.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm026.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm027.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm027.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm027.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm028.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm028.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm028.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm029.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm029.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm029.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm030.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm030.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm030.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm031.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm031.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm031.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm032.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm032.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm032.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm033.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm033.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm033.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm034.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm034.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm034.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm035.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm035.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm035.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm036.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm036.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm036.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm037.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm037.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm037.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm038.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm038.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm038.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm039.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm039.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm039.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm040.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm040.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm040.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm041.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm041.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm041.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm042.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm042.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm042.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm043.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm043.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm043.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm044.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm044.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm044.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm045.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm045.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm045.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm046.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sm046.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sm046.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr047.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr047.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr047.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr048.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr048.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr048.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr049.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr049.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr049.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr050.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr050.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr050.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr051.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr051.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr051.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr052.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr052.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr052.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr053.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr053.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr053.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr054.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr054.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr054.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr055.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr055.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr055.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr056.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr056.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr056.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr057.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr057.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr057.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr058.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr058.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr058.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr059.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr059.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr059.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr060.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr060.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr060.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr061.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr061.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr061.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr062.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr062.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr062.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr063.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr063.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr063.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr064.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr064.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr064.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr065.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr065.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr065.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr066.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr066.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr066.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr067.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr067.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr067.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr068.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr068.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr068.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr069.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr069.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr069.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr070.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr070.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr070.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr071.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr071.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr071.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr072.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr072.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr072.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr073.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr073.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr073.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr074.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr074.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr074.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr075.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr075.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr075.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr076.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr076.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr076.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr077.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr077.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr077.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr078.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr078.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr078.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr079.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr079.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr079.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr080.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr080.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr080.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr081.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr081.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr081.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr082.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr082.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr082.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr083.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr083.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr083.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr084.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr084.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr084.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr085.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr085.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr085.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr086.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr086.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr086.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr087.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr087.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr087.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr088.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr088.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr088.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr089.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smr089.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smr089.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms090.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms090.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms090.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms091.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms091.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms091.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms092.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms092.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms092.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms093.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms093.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms093.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms094.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms094.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms094.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms095.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms095.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms095.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms096.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms096.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms096.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms097.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms097.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms097.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms098.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms098.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms098.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms099.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms099.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms099.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms100.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms100.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms100.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms101.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms101.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms101.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms102.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms102.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms102.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms103.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms103.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms103.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms104.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms104.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms104.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms105.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms105.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms105.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms106.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms106.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms106.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms107.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms107.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms107.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms108.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms108.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms108.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms109.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms109.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms109.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms110.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms110.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms110.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms111.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms111.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms111.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms112.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms112.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms112.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms113.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms113.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms113.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms114.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms114.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms114.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms115.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms115.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms115.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms116.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms116.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms116.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms117.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms117.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms117.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms118.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms118.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms118.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms119.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms119.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms119.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms120.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms120.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms120.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms121.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms121.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms121.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms122.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms122.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms122.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms123.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms123.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms123.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms124.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms124.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms124.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms125.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms125.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms125.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms126.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms126.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms126.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms127.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/sms127.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/sms127.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss-sp1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss-sp1.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss-sp1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss-sp2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss-sp2.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss-sp2.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss-sp3.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss-sp3.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss-sp3.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss128.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss128.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss128.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss129.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss129.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss129.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss130.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss130.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss130.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss131.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss131.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss131.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss132.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss132.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss132.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss133.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss133.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss133.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss134.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss134.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss134.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss135.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss135.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss135.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss136.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss136.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss136.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss137.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss137.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss137.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss138.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss138.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss138.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss139.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss139.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss139.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss140.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss140.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss140.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss141.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss141.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss141.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss142.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss142.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss142.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss143.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss143.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss143.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss144.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss144.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss144.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss145.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss145.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss145.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss146.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss146.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss146.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss147.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss147.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss147.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss148.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss148.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss148.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss149.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss149.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss149.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss150.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss150.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss150.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss151.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss151.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss151.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss152.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss152.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss152.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss153.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss153.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss153.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss154.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss154.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss154.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss155.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss155.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss155.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss156.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss156.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss156.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss157.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss157.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss157.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss158.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss158.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss158.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss159.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss159.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss159.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss160.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss160.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss160.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss161.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss161.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss161.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss162.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss162.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss162.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss163.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss163.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss163.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss164.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss164.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss164.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss165.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss165.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss165.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss166.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/smss166.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/smss166.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss167.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss167.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss167.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss168.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss168.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss168.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss169.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss169.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss169.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss170.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss170.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss170.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss171.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss171.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss171.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss172.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss172.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss172.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss173.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss173.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss173.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss174.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss174.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss174.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss175.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss175.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss175.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss176.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss176.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss176.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss177.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss177.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss177.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss178.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss178.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss178.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss179.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss179.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss179.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss180.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss180.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss180.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss181.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss181.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss181.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss182.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss182.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss182.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss183.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss183.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss183.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss184.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss184.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss184.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss185.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss185.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss185.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss186.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss186.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss186.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss187.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss187.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss187.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss188.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss188.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss188.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss189.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss189.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss189.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss190.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss190.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss190.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss191.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss191.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss191.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss192.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss192.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss192.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss193.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss193.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss193.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss194.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss194.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss194.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss195.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss195.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss195.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss196.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss196.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss196.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss197.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss197.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss197.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss198.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss198.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss198.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss199.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss199.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss199.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss200.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/epquide/ss200.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/epquide/ss200.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/sailormoon/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/ainose.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/ainose.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/ainose.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/annosj.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/annosj.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/annosj.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/azusa.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/azusa.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/azusa.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/cestlavi.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/cestlavi.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/cestlavi.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/emerodi.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/emerodi.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/emerodi.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/hea_mov.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/hea_mov.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/hea_mov.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/hottoke.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/hottoke.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/hottoke.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/sailormoon/lyrika/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/just_love.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/just_love.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/just_love.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/lasold.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/lasold.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/lasold.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/ma_gin.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/ma_gin.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/ma_gin.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/moon_d_s.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/moon_d_s.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/moon_d_s.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/moon_denetsu.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/moon_denetsu.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/moon_denetsu.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/onaji.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/onaji.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/onaji.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/otome.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/otome.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/otome.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/pgsm_open.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/pgsm_open.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/pgsm_open.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/pr_moon.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/pr_moon.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/pr_moon.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/say_sw_d.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/say_sw_d.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/say_sw_d.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/staropen.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/staropen.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/staropen.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/takishi.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/takishi.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/takishi.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/yume_miru.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/lyrika/yume_miru.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/lyrika/yume_miru.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/avatar.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/avatar.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/avatar.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/sailormoon/subtitl/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/movie.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/movie.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/movie.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/pgsm.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/pgsm.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/pgsm.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/sm.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/sm.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/sm.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/smr.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/smr.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/smr.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/sms.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/sms.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/sms.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/smss.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/smss.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/smss.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/ss.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/sailormoon/subtitl/ss.html/" />
+    <loc>https://uminogurio.netlify.app/sailormoon/subtitl/ss.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/slayers/1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/1.html/" />
+    <loc>https://uminogurio.netlify.app/slayers/1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/slayers/2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/2.html/" />
+    <loc>https://uminogurio.netlify.app/slayers/2.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/slayers/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/" />
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/slayers/subtitl/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/subtitl/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/slayers/subtitl/sl1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/subtitl/sl1.html/" />
+    <loc>https://uminogurio.netlify.app/slayers/subtitl/sl1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/slayers/subtitl/sl2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/subtitl/sl2.html/" />
+    <loc>https://uminogurio.netlify.app/slayers/subtitl/sl2.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/slayers/subtitl/sl3.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/slayers/subtitl/sl3.html/" />
+    <loc>https://uminogurio.netlify.app/slayers/subtitl/sl3.html</loc>
   </url>
   <url>
     <loc>https://uminogurio.netlify.app/vls/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/vls/" />
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/vls/index1.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/vls/index1.html/" />
+    <loc>https://uminogurio.netlify.app/vls/index1.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/vls/ram2.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/vls/ram2.html/" />
+    <loc>https://uminogurio.netlify.app/vls/ram2.html</loc>
   </url>
   <url>
-    <loc>https://uminogurio.netlify.app/vls/titulky.html/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uminogurio.netlify.app/vls/titulky.html/" />
+    <loc>https://uminogurio.netlify.app/vls/titulky.html</loc>
   </url>
 </urlset>
