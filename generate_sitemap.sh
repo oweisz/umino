@@ -9,7 +9,7 @@ OUT="sitemap.xml"
 
 cat << 'EOF' > "$OUT"
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
+<urlset xmlns="http://sitemaps.org/schemas/sitemap/0.9">
 EOF
 
 for f in **/*.html; do
