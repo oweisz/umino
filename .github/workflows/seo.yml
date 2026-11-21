@@ -1,0 +1,38 @@
+cat << 'EOF' > .github/workflows/seo.yml
+name: Auto Canonical & Sitemap
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.html'
+      - 'generate-sitemap'
+
+permissions:
+  contents: write
+
+jobs:
+  seo-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stažení repozitáře s historií pro data úprav
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Spuštění skriptu generate-sitemap
+        run: |
+          chmod +x ./generate-sitemap
+          ./generate-sitemap
+
+      - name: Uložení změn do repozitáře
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add .
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto: aktualizace canonical tagů a sitemap.xml"
+            git push
+          fi
+EOF
