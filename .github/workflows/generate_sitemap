@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+shopt -s globstar nullglob
+
+BASE_URL="https://netlify.app"
+OUT="sitemap.xml"
+
+cat << 'EOF' > "$OUT"
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+EOF
+
+for f in **/*.html; do
+  # Vynechá ověřovací soubor Google Search Console a případnou chybovou stránku
+  [[ "$f" == "google5343079f12428526.html" || "$f" == "404.html" ]] && continue
+
+  # Sestavení čisté URL (shodné pro canonical i sitemap)
+  if [[ "$f" == "index.html" ]]; then
+    url="${BASE_URL}/"
+  elif [[ "$f" == */index.html ]]; then
+    url="${BASE_URL}/${f%index.html}"
+  else
+    url="${BASE_URL}/${f}"
+  fi
+
+  # 1. Doplní <link rel="canonical"> před </head>, pokud v souboru ještě není
+  if ! grep -qi 'rel="canonical"' "$f"; then
+    sed -i "s|</head>|  <link rel=\"canonical\" href=\"${url}\" />\n</head>|I" "$f"
+  fi
+
+  # 2. Zjistí datum poslední úpravy (nejprve z Gitu, jinak ze systému souborů)
+  lastmod=$(git log -1 --format=%cd --date=short -- "$f" 2>/dev/null || true)
+  if [[ -z "$lastmod" ]]; then
+    lastmod=$(date -r "$f" +%Y-%m-%d)
+  fi
+
+  # 3. Zapíše položku do sitemap.xml
+  cat << EOF >> "$OUT"
+  <url>
+    <loc>${url}</loc>
+    <lastmod>${lastmod}</lastmod>
+  </url>
+EOF
+done
+
+echo "</urlset>" >> "$OUT"
+echo "Hotovo: canonical tagy zkontrolovány a $OUT vygenerován."
