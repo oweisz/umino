@@ -9,16 +9,6 @@ YCbCr Matrix: None
 PlayResX: 512
 PlayResY: 384
 
-[Aegisub Project Garbage]
-Audio File: ../e7e8bc4c/[Aventurierii Spatiului] Spaceship Sagittarius - 15 - [South Wind Subs].mkv
-Video File: ../e7e8bc4c/[Aventurierii Spatiului] Spaceship Sagittarius - 15 - [South Wind Subs].mkv
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 330
-Active Line: 342
-Video Position: 33281
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Nimbus Sans L,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0.7,2,10,10,10,1
